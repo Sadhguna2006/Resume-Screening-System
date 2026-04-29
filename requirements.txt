@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+joblib
+matplotlib
+nltk
+sentence-transformers
+scikit-learn
+torch
+torchvision
